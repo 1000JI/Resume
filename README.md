@@ -144,6 +144,7 @@
       + ```공휴일 공공 API```
    - 링크
       + [AppStore 다운로드](https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98do-%EB%8B%B7%EC%BA%98%EB%A6%B0%EB%8D%94/id1485137918)
+      + [오늘Do Github](https://github.com/1000JI/TodayDo)
       
 * **풋살, 축구 동호회 관리 앱(공노리, ```iOS Application```)**
    - 프로젝트 소개
