@@ -3,7 +3,7 @@
 
 ## 소개
 - 이름: 천지운(```千志云, 천 가지의 뜻을 이르다(말하다)```)
-- 이메일: jiwo.oni1000@gmail.com
+- 이메일: chjh1992@gmail.com
 - Resume Github: [https://github.com/1000JI/Resume](https://github.com/1000JI/Resume)
 - Study TIL Github: [https://github.com/1000JI/TIL](https://github.com/1000JI/TIL)
 - 네이버 블로그: [https://blog.naver.com/92wldns](https://blog.naver.com/92wldns)
